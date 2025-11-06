@@ -45,3 +45,15 @@ python3 script_name.py
 fasta_path = "/path/to/your/input.txt"
 ```
 
+## Acknowledgments
+
+- Thanks to [Rosalind](http://rosalind.info/) for providing excellent bioinformatics challenges
+- Inspired by the bioinformatics community
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+⭐ If you found this helpful, please consider giving it a star!
